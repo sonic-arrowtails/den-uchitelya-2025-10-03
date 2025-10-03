@@ -15,8 +15,15 @@
 4. [Windows learn - командная строка в винде, официальный сайт](https://learn.microsoft.com/ru-ru/windows-server/administration/windows-commands/windows-commands)
 5. [CMD для начинающих](https://howto.mediadoma.com/rukovodstvo-dlja-nachinajushhih-po-komandnoj-stroke-windows/)
 
+## Репозитории
+
+1. <https://github.com/npocmaka/batch.scripts>
+2. <https://github.com/logicopslab/BatchScripting>
+3. <https://github.com/geekcomputers/Batch>
+
 ## Some English links (incomplete) (youre better off ignoring this section gng)
 
 1. [GeeksForGeeks - Operating systems: full tutorial](https://www.geeksforgeeks.org/operating-systems/operating-systems/)  
 2. [Microsoft Learn - Windows commands full reference](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 3. [SS64 - Windows commands full reference](https://ss64.com/nt/)
+
